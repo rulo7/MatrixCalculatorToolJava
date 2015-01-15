@@ -1,6 +1,9 @@
 package tools;
-
-public class Calculator {
+/**
+ * Representacion funcional de un herramienta para trabajar con matrices.
+ * 
+ */
+public class MatrixCalculator {
 
     // con matrices de double
     public static double[][] sumarMatrices(double[][] x, double y[][]) {
